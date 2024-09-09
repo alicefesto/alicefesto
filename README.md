@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alice! <br/><a href=" <a href="https://www.linkedin.com/in/alice-festo/">Admin/Accounts assistant Professional</a>
+<h1>Hi, I'm Alice! <br/><a href="https://www.linkedin.com/in/alice-festo/">Admin/Accounts assistant Professional</a>
 <h2>👨‍💻 AWS Certified Cloud Practioner:</h2>
 
 
